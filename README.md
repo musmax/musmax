@@ -65,7 +65,7 @@ let ojomusa = {
 href="https://linkedIn.com/in/akande-musa-ojo-846360344"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
 href="https://medium.com/@musaakandeojo"><img
-src="https://img.shields.io/badge/@onifkay-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@musaakandeojo"></img></a> <a target="_blank"
+src="https://img.shields.io/badge/@musaakandeojo-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@musaakandeojo"></img></a> <a target="_blank"
 href="https://twitter.com/ojo_akande78325"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <div/>
