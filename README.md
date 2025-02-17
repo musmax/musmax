@@ -41,7 +41,7 @@ let ojomusa = {
  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
    <br/>
-<p align="center"> <a href="https://github.com/kendoriddy/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kendoriddy" alt="kendoriddy" /></a> </p>
+<p align="center"> <a href="https://github.com/kendoriddy/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kendoriddy" alt="musmax" /></a> </p>
 
 <h3 align="center">GitHub Statistics:</h3>
 
